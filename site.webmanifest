@@ -1,0 +1,17 @@
+{
+  "name": "MJ Solution",
+  "short_name": "MJ Solution",
+  "description": "Full-stack development, web design and SEO solutions.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1017",
+  "theme_color": "#e10600",
+  "icons": [
+    {
+      "src": "assets/mj-solution-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
